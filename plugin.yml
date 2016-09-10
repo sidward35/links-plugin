@@ -1,0 +1,7 @@
+name: Links
+main: me.sidward35.Links
+version: 1.0
+commands:
+   links:
+      description: See all the server links.
+      usage: /<command>
